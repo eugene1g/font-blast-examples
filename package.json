@@ -1,0 +1,31 @@
+{
+  "name": "font-blast-preset",
+  "description": "Font Awesome split to individual SVG and PNG files of different sizes along with Node.JS based generator",
+  "version": "0.2.0",
+  "license": "MIT",
+  "author": "eugene1g",
+  "homepage": "https://github.com/eugene1g/font-blast-preset",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/eugene1g/font-blast-preset.git"
+  },
+  "bugs": {
+    "url": "https://github.com/eugene1g/font-blast-preset/issues"
+  },
+  "main": "popular-fonts.js",
+  "keywords": [
+    "svg",
+    "font",
+    "icon",
+    "bootstrap",
+    "foundation",
+    "foundation",
+    "extract"
+  ],
+  "dependencies": {
+    "font-blast": "~0.2",
+    "js-yaml": "~3.2.2",
+    "superagent": "~0.20.0",
+    "tmp": "0.0.24"
+  }
+}
